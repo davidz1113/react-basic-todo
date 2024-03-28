@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-basic-todo/static/css/main.a1bc61ab.css",
+    "main.js": "/react-basic-todo/static/js/main.dd240224.js",
+    "index.html": "/react-basic-todo/index.html",
+    "static/media/delete.svg": "/react-basic-todo/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/react-basic-todo/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.a1bc61ab.css.map": "/react-basic-todo/static/css/main.a1bc61ab.css.map",
+    "main.dd240224.js.map": "/react-basic-todo/static/js/main.dd240224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1bc61ab.css",
+    "static/js/main.dd240224.js"
+  ]
+}
