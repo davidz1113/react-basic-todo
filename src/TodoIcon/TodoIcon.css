@@ -1,0 +1,27 @@
+.Icon {
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+}
+
+.Icon-delete {
+  position: relative;
+  bottom: 40px;
+}
+
+.Icon-delete:hover .Icon-svg {
+  fill: red;
+}
+
+.Icon-check--active {
+  color: green;
+}
+
+.Icon-check {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.Icon-close {
+  align-self: flex-end;
+}
